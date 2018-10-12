@@ -11,7 +11,7 @@ Project Duel (coming soon)
 Factions (coming soon)
 and many more coming soon!
 
-:link: DISCORD: https://discord.gg/KzfUmx
+:link: DISCORD: https://naturemc.net/discord
 :link:  WEBSITE: https://naturemc.net/
 :link: BANS: https://bans.naturemc.net/
 
